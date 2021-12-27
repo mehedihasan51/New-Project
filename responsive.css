@@ -1,0 +1,160 @@
+
+@media (max-width: 1200px){
+    .row{
+       
+       margin: 0 5rem; 
+    }
+    .hero-text-box{
+        width: 100%;
+    }
+    header{
+        height: 65vh;
+    }
+    .logo {
+
+        margin-left: 5rem !important;
+    }
+   
+    
+
+}
+@media(max-width: 1024px){
+
+    .mobile-manu span{
+        display: block;
+    }
+    .overlay {
+        
+        display: block;
+    }
+
+
+    header{
+        height: 100vh;
+    }
+    h1 {
+        font-size: 2em;
+        margin: 0.67rem 3rem !important;
+    }
+   
+    .main-nav{
+        display: none;
+    }
+    html{
+        font-size: 56%;
+    }
+    .clint-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .clint-revied{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .contact-section form{
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+@media(max-width: 980px){
+    .span_1_of_4 {
+        width: 49.2% !important;
+    }
+
+    .span_1_of_4:nth-child(3){
+        margin-left: 0;
+    }
+    html{
+        font-size: 62.5%;
+    }
+}
+@media(max-width: 768px){
+    .little-description{
+        width: 100%;
+        margin-left: 0;
+    }
+    header{
+        height: 50vh;
+    }
+    h1{
+        
+        font-size: 1em !important;
+        margin: 0.67em 5rem !important;
+        
+    }
+    h2{
+        font-size: 2.5rem !important;
+        
+    }
+    h3{
+        font-size: 2.5rem !important;
+
+       
+    }
+
+
+    .clint-revied p {
+        font-size: 1.7rem;   
+        margin: 2rem 5rem;
+        margin-top: 0;
+    }
+    .testimonial .col:nth-child(3), .testimonial .col:nth-child(4) {
+        margin-top: 4rem;
+        
+    }
+    .logo {
+        height: 2rem;
+       
+    }
+    .sticky {
+        padding: 1rem 0;
+        
+    }
+
+}
+
+@media(max-width: 480px){
+    .span_1_of_4 {
+        width: 100% !important;
+
+    }
+    header{
+        height: 70vh;
+    }
+    .protfolio-filter button{
+        font-size: 1rem;
+    }
+    h4{
+        font-size: 1.6rem;
+        
+    }
+    .btn{
+        padding: 1.6rem 4.5rem;
+    }
+    .row{
+        margin: 0 2.1rem;
+    }
+    h1 {
+        font-size: 2em;
+        margin: 0.67em 2.5rem;
+    }
+    h1 {
+        font-size: 1.9rem !important;
+    }
+    .logo {
+        height: 2rem;
+       
+    }
+    .sticky {
+        padding: 1rem 0;
+        
+    }
+    .testimonial .col:nth-child(3),
+    .testimonial .col:nth-child(4){
+          margin-top: 4rem;
+}
+
+}
